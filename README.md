@@ -2,8 +2,8 @@
 REAPRA Tech is looking for LEAD Blockchain Developer in HCM!
 ==Responsibilities==
 
-The Developer will work across a variety of blockchain initiatives, including but not limited to:
-Research, design, develop, and test blockchain technologies.
+# The Developer will work across a variety of blockchain initiatives, including but not limited to:
+* Research, design, develop, and test blockchain technologies.
 Consult and implement blockchain solutions based on business specifications.
 Build POCs quickly to enable rapid prototyping of ideas for both internal stakeholders and external clients.
 Configure and maintain blockchain systems for entrepreneurs given business specifications.
